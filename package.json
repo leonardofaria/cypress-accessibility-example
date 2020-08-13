@@ -1,0 +1,19 @@
+{
+  "name": "cypress-accessibility-example",
+  "version": "1.0.0",
+  "description": "Repository showing Cypress accessibility tests",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve public -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "ci"
+  ],
+  "author": "Leonardo Faria",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
